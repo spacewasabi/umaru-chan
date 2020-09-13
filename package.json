@@ -1,0 +1,26 @@
+{
+  "name": "umaru-chan",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacewasabi/umaru-chan.git"
+  },
+  "author": "Nelson 'Space' C.",
+  "contributors": [
+    "coffee"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^1.19.1"
+  },
+  "bugs": {
+    "url": "https://github.com/spacewasabi/umaru-chan/issues"
+  },
+  "homepage": "https://github.com/spacewasabi/umaru-chan#readme"
+}
