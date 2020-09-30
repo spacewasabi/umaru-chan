@@ -1,6 +1,6 @@
 {
   "name": "umaru-chan",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Discord Bot",
   "main": "index.js",
   "scripts": {
